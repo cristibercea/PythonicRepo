@@ -1,0 +1,7 @@
+to read:
+	12, 2355, agehdf
+	10, 245, telefon
+	30, 235, imbracaminte
+	15, 1235, intretinere
+	1, 235, mancare
+	21, 2353, diverse
